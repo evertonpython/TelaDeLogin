@@ -1,7 +1,7 @@
 from tkinter import *
 
 def ver():
-	if ed1.get() == "everton" and ed2.get() == "everton":
+	if ed1.get() == "teste" and ed2.get() == "teste":
 		print("LOGADO COM SUCESSO!!!")
 		
 	else:
